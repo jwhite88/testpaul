@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Fitness Tracker",
+        "image": "https://user-images.githubusercontent.com/78170157/128289078-aab7f979-6e83-4036-8a13-6e14fbfaa89b.JPG",
+        "github": "https://github.com/Pgturn68/Fitness-Tracker-Homework",
+        "deploy": "https://paul-fitness-app.herokuapp.com/exercise",
+        "topics": "User is able to track their exercise routines."
+    },
+    {
+        "id": 2,
+        "name": "Budget Tracker",
+        "image": "https://user-images.githubusercontent.com/78170157/125884736-7be57855-e4b5-44f0-bc9a-6cfd59070aa7.JPG",
+        "github": "https://github.com/Pgturn68/Budget-Tracker-Homework",
+        "deploy": "https://budget-tracker-homework.herokuapp.com/",
+        "topics": "Helps the user to keep track of their spending."
+    },
+    {
+        "id": 3,
+        "name": "Weather Display",
+        "image": "https://user-images.githubusercontent.com/78170157/128439607-4162f91d-617f-48c1-ba37-cddb8ee29b37.JPG",
+        "github": "https://github.com/Pgturn68/Weather-Display",
+        "deploy": "https://pgturn68.github.io/Weather-Display/",
+        "topics": "Lets the user find the forcast for a particular city."
+    },
+    {
+        "id": 4,
+        "name": "Note Taker",
+        "image": "https://user-images.githubusercontent.com/78170157/118382318-cc886480-b5b9-11eb-8ad5-50966d0c759c.JPG",
+        "github": "https://github.com/Pgturn68/Note-Taker",
+        "deploy": "https://my-note-taking-app.herokuapp.com/",
+        "topics": "Lets the user take and store notes."
+    }   
+]
